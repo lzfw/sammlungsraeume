@@ -1,0 +1,22 @@
+version: '3.5'
+
+services:
+  app:
+    image: nginx
+    restart: always
+    environment:
+      VIRTUAL_HOST: sammlungsraeume.de
+      LETSENCRYPT_HOST: sammlungsraeume.de
+      LETSENCRYPT_EMAIL: '${LETSENCRYPT_EMAIL}'
+    volumes:
+      - "./www:/usr/share/nginx/html:ro"
+    networks:
+      - default
+      - proxy-network
+
+networks:
+  proxy-network:
+   name: global-proxy-network
+
+# vim: tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
+
