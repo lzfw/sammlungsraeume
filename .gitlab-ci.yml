@@ -1,0 +1,9 @@
+build:
+  retry: 2
+  tags:
+    - shell
+  script:
+     - docker-compose up -d
+
+# vim: tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
+
