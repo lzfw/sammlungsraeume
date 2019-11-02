@@ -1,5 +1,8 @@
-build:
+deploy:
   retry: 2
+  only:
+    - master
+  interruptible: false
   tags:
     - shell
   script:
