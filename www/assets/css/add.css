@@ -1,0 +1,8 @@
+section {
+    counter-reset: section;
+}
+
+p::before {
+    counter-increment: p;
+    content: "§" counter(p) ": ";
+}
