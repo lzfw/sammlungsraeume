@@ -1,8 +1,9 @@
 section {
-    counter-reset: section;
+    counter-reset: paragraph;
 }
 
 p::before {
-    counter-increment: p;
-    content: "§" counter(p) ": ";
+    counter-increment: paragraph;
+    content: "§" counter(paragraph);
+    border-color: rgba(0, 0, 0, 0.15);
 }
