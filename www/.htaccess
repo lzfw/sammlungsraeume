@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.sammlungsraeumde\.de$ [NC]
+RewriteRule ^(.*)$ http://sammlungsraeumde.de/$1 [L,R=301]
