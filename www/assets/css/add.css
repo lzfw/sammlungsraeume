@@ -2,7 +2,8 @@ div.countParagraphs {
     counter-reset: paragraph;
 }
 
-div.countParagraphs > p::before {
+div.countParagraphs > p::before,
+div.countParagraphs > ul > li::before {
     counter-increment: paragraph;
     color: #666;
     content: "§" counter(paragraph);
