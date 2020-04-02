@@ -1,9 +1,10 @@
-section {
+div.countParagraphs {
     counter-reset: paragraph;
 }
 
-p::before {
+div.countParagraphs p::before {
     counter-increment: paragraph;
+    color: #a6a6a6;
     content: "§" counter(paragraph);
-    border-color: rgba(0, 0, 0, 0.15);
+    margin-right: 1rem;
 }
