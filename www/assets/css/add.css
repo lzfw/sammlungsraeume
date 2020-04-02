@@ -6,5 +6,8 @@ div.countParagraphs > p::before {
     counter-increment: paragraph;
     color: #666;
     content: "§" counter(paragraph);
-    margin-right:1rem;
+    margin-right: 1rem;
+    font-size: 0.85rem;
+    position: relative;
+    top: 0.3rem;
 }
