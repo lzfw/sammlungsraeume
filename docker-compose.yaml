@@ -10,6 +10,7 @@ services:
       LETSENCRYPT_EMAIL: '${LETSENCRYPT_EMAIL}'
     volumes:
       - "./www:/usr/share/nginx/html:ro"
+      - "./nginx:/etc/nginx/templates:ro"
     networks:
       - default
       - proxy-network
