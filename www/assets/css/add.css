@@ -11,3 +11,7 @@ div.countParagraphs > p::before {
     position: relative;
     top: 0rem;
 }
+
+div.csl-entry {
+    margin-bottom: 0.5rem;
+}
