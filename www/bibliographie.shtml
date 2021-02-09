@@ -9,12 +9,11 @@
 		<title>Sammlungsräume - Bibliographie</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<meta name="keywords" lang="de" content="Vortrag, Twin Talk, London, Science in the City, 2020, Sammlungen, Sammler, Sammeln, Sammlungsräume, Topographien, Frühe Neuzeit, Projekt, Forschungsprojekt, Halle, Leipzig, Dresden, Leopoldina, Franckesche Stiftungen" />
-		<meta name="keywords" lang="en" content="paper, twin talk, London, Science in the City, 2020, collections, collectors, collecting, topographies, Early Modern Age, project, research project, Halle, Leipzig, Dresden, Leopoldina, Franckesche Stiftungen" />
-        <meta name="description" lang="de" content="Twin Talk: Die Vielfalt in der Gleichzeitigkeit im Projekt 'Sammlungsräume'. Topografien frühneuzeitlicher Sammlungen in Halle, Leipzig und Dresden" />
-        <meta name="author" content="Jenny Brückner, Torsten Roeder" />
-		<link rel="alternate" hreflang="en" title="English version (translated)" type="text/html" href="https://sammlungsraeume.de/science-in-the-city_en.html" />
-        <link rel="canonical" href="https://sammlungsraeume.de/science-in-the-city_de.html" />
+		<meta name="keywords" lang="de" content="Bibliographie, Zotero, Sammlungen, Sammler, Sammeln, Sammlungsräume, Topographien, Frühe Neuzeit, Projekt, Forschungsprojekt, Halle, Leipzig, Dresden, Leopoldina, Franckesche Stiftungen" />
+		<meta name="keywords" lang="en" content="bibliography, Zotero, collections, collectors, collecting, topographies, Early Modern Age, project, research project, Halle, Leipzig, Dresden, Leopoldina, Franckesche Stiftungen" />
+        <meta name="description" lang="de" content="Projekt-Bibliographie zum Projekt 'Sammlungsräume'. Topografien frühneuzeitlicher Sammlungen in Halle, Leipzig und Dresden" />
+        <meta name="author" content="Sophia Corell" />
+        <link rel="canonical" href="https://sammlungsraeume.de/bibliographie.shtml" />
 		<link rel="license" hreflang="de" title="Impressum" type="text/html" href="https://sammlungsraeume.de/impressum.html" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/add.css" />
@@ -23,7 +22,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<div class="logo"><a href="index.html">Sammlungsräume</a> | <span>Science in the City (DE)</span></div>
+				<div class="logo"><a href="index.html">Sammlungsräume</a> | <span>Bibliographie</span></div>
 				<a href="#menu" class="toggle"><span>Menu</span></a>
 			</header>
 
@@ -50,7 +49,7 @@
 						<div class="content">
 							<header class="align-center">
 								<h2>Projektbibliographie</h2>
-								<p><a href="https://www.zotero.org/groups/354807/lzfw/collections/QA4642MV">(aus der öffentlichen Zotero-Library)</a></p>
+								<p>aus der öffentlichen <a href="https://www.zotero.org/groups/354807/lzfw/collections/QA4642MV">Zotero-Library</a> des LZfW</p>
 								<p>Redaktion: Sophia Corell</p>
 							</header>
 							<hr />
@@ -119,7 +118,7 @@
 						<a href="impressum.html">Impressum</a>
 						| <a href="datenschutz.html">Datenschutz</a>
 						<br/>
-						Stand: 12. Juni 2020
+						Stand: 9. Februar 2021
 					</div>
 				</div>
 			</footer>
