@@ -1,4 +1,4 @@
- <!–#ECHO var="DATE_LOCAL" –>
+ <!-- #ECHO var="DATE_LOCAL" -->
  <html>
     <head>
     </head>
