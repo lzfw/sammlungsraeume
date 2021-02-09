@@ -1,4 +1,5 @@
-<html>
+ <!–#ECHO var="DATE_LOCAL" –>
+ <html>
     <head>
     </head>
     <body>
