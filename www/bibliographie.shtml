@@ -1,8 +1,134 @@
- <!-- #ECHO var="DATE_LOCAL" -->
- <html>
-    <head>
-    </head>
-    <body>
-        <!--# include file="included.html" -->
-    </body>
+<!DOCTYPE HTML>
+<!--
+	Transitive by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html lang="de">
+	<head>
+		<title>Sammlungsräume - Bibliographie</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="keywords" lang="de" content="Vortrag, Twin Talk, London, Science in the City, 2020, Sammlungen, Sammler, Sammeln, Sammlungsräume, Topographien, Frühe Neuzeit, Projekt, Forschungsprojekt, Halle, Leipzig, Dresden, Leopoldina, Franckesche Stiftungen" />
+		<meta name="keywords" lang="en" content="paper, twin talk, London, Science in the City, 2020, collections, collectors, collecting, topographies, Early Modern Age, project, research project, Halle, Leipzig, Dresden, Leopoldina, Franckesche Stiftungen" />
+        <meta name="description" lang="de" content="Twin Talk: Die Vielfalt in der Gleichzeitigkeit im Projekt 'Sammlungsräume'. Topografien frühneuzeitlicher Sammlungen in Halle, Leipzig und Dresden" />
+        <meta name="author" content="Jenny Brückner, Torsten Roeder" />
+		<link rel="alternate" hreflang="en" title="English version (translated)" type="text/html" href="https://sammlungsraeume.de/science-in-the-city_en.html" />
+        <link rel="canonical" href="https://sammlungsraeume.de/science-in-the-city_de.html" />
+		<link rel="license" hreflang="de" title="Impressum" type="text/html" href="https://sammlungsraeume.de/impressum.html" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/add.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="logo"><a href="index.html">Sammlungsräume</a> | <span>Science in the City (DE)</span></div>
+				<a href="#menu" class="toggle"><span>Menu</span></a>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Eingangsseite</a></li>
+					<li><a href="projekt.html">Projekt</a></li>
+					<li><a href="mitwirkende.html">Mitwirkende</a></li>
+					<li><a href="#">✴️ Science in the City</a></li>
+					<li><a href="#footer">Kontakt</a></li>
+					<li><a href="impressum.html">Impressum</a></li>
+					<li><a href="datenschutz.html">Datenschutz</a></li>
+				</ul>
+			</nav>
+
+		<!-- One -->
+			<section id="one" class="wrapper style2">
+				<div class="inner">
+					<div class="box">
+						<div class="image fit">
+							<img src="images/sammlertypen.jpg" alt="" />
+						</div>
+						<div class="content">
+							<header class="align-center">
+								<h2>Projektbibliographie</h2>
+							</header>
+							<hr />
+                            <!--# include file="bibliographie.html" -->
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Five -->
+			<section id="five" class="wrapper style2">
+				<div class="inner">
+					<div class="grid-style">
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<img src="images/uffizi.jpg" alt="" />
+								</div>
+								<div class="content">
+									<header class="align-center">
+										<h2>Über die Mitwirkenden</h2>
+										<p>Personen und Institutionen</p>
+									</header>
+									<hr />
+									<p>Das Projektteam setzt sich aus Mitarbeiterinnen und Mitarbeitern der <b>Franckeschen Stiftungen zu Halle</b>, des <b>Leopoldina-Zentrums für Wissenschafts&shy;forschung</b> und <b>freien Mitwirkenden</b> aus Dresden und Leipzig zusammen. Ein Antrag zur Förderung des Projekts wurde bei der DFG gestellt.</p>
+									<ul class="actions">
+										<li><a href="mitwirkende.html" class="button alt">mehr lesen ▷</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<img src="images/kunstgespraech.jpg" alt="" />
+								</div>
+								<div class="content">
+									<header class="align-center">
+										<h2>Kontakt</h2>
+										<p>Ansprechperson</p>
+									</header>
+									<hr />
+									Ronja Steffensky<br />
+									Leopoldina-Zentrum für Wissenschaftsforschung<br />
+									Emil-Abderhalden-Straße 36<br />
+									06108 Halle (Saale)<br />
+									<br />
+									☎ <a href="tel:+4934547239118">+49 / 345 / 47239-118</a><br />
+									✉ <a href="mailto:lzfw@leopoldina.org">lzfw@leopoldina.org</a><br />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper">
+				<div class="inner">
+					<div class="logos">
+						<a href="https://www.francke-halle.de" target="_blank"><img src="images/logo-francke.png" alt="Franckesche Stiftungen" /></a>
+						&nbsp;
+						<a href="https://leopoldina.org" target="_blank"><img src="images/logo-leopoldina.png" alt="Leopoldina – Nationale Akademie der Wissenschaften"/></a>
+					</div>
+					<div class="copyright">
+						<a href="impressum.html">Impressum</a>
+						| <a href="datenschutz.html">Datenschutz</a>
+						<br/>
+						Stand: 12. Juni 2020
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
