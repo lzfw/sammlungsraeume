@@ -12,6 +12,7 @@ div.countParagraphs > p::before {
     top: 0rem;
 }
 
+/* Zotero import */
 div.csl-entry {
     margin-bottom: 0.5rem;
 }
