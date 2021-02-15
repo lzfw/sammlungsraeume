@@ -9,43 +9,58 @@
 
 <url>
   <loc>https://sammlungsraeume.de/</loc>
-  <lastmod>2020-04-02T11:23:58+00:00</lastmod>
+  <lastmod>2021-02-15T13:04:07+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://sammlungsraeume.de/index.html</loc>
-  <lastmod>2020-04-02T11:23:58+00:00</lastmod>
+  <lastmod>2021-02-15T13:04:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sammlungsraeume.de/projekt.html</loc>
-  <lastmod>2020-04-02T11:24:30+00:00</lastmod>
+  <lastmod>2021-02-15T13:03:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sammlungsraeume.de/mitwirkende.html</loc>
-  <lastmod>2020-04-02T11:24:23+00:00</lastmod>
+  <lastmod>2021-02-15T13:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sammlungsraeume.de/bibliographie.html</loc>
+  <lastmod>2021-02-15T13:14:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sammlungsraeume.de/science-in-the-city_de.html</loc>
-  <lastmod>2020-04-02T11:28:55+00:00</lastmod>
+  <lastmod>2021-02-15T13:03:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sammlungsraeume.de/impressum.html</loc>
-  <lastmod>2020-04-02T11:23:34+00:00</lastmod>
+  <lastmod>2021-02-15T13:03:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sammlungsraeume.de/datenschutz.html</loc>
-  <lastmod>2020-04-02T11:23:09+00:00</lastmod>
+  <lastmod>2021-02-15T13:03:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sammlungsraeume.de/science-in-the-city_en.html</loc>
-  <lastmod>2020-04-02T11:30:14+00:00</lastmod>
+  <loc>https://sammlungsraeume.de/documents/science-in-the-city_de.pdf</loc>
+  <lastmod>2020-05-12T11:18:42+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sammlungsraeume.de/science-in-the-city_en.html</loc>
+  <lastmod>2021-02-15T13:03:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sammlungsraeume.de/documents/science-in-the-city_en.pdf</loc>
+  <lastmod>2020-05-12T17:25:22+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
