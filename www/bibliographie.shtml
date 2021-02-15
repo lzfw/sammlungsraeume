@@ -17,6 +17,7 @@
 		<link rel="license" hreflang="de" title="Impressum" type="text/html" href="https://sammlungsraeume.de/impressum.html" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/add.css" />
+		<script src="http://www.w3schools.com/lib/w3data.js"></script>
 	</head>
 	<body class="subpage">
 
@@ -55,6 +56,11 @@
 							</header>
 							<hr />
                             <!--# include file="bibliographie.html" -->
+							<hr />
+							<div w3-include-html="bibliographie.html"></div> 
+							<script>
+							w3IncludeHTML('');
+							</script>
 						</div>
 					</div>
 				</div>
